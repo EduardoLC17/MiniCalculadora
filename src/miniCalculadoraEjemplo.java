@@ -4,5 +4,8 @@ public class miniCalculadoraEjemplo {
         return Math.sqrt(numero);
     }
 
+    public static double valorAbsoluto(double numero) {
+        return Math.abs(numero);
+    }
 
 }
